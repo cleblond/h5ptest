@@ -1014,61 +1014,24 @@ var H5PIntegration = {
         "language": "en"
     }
 }
-
-
-
-
-
-
-
 </script>    
-
-
-
-
-    
 <script src='h5p-php-library/js/jquery.js'></script>
-          
 <script src='h5p-php-library/js/h5p.js'></script>   
-
-
-      
 <script src='h5p-php-library/js/h5p-event-dispatcher.js'></script>    
-
-    
-
-
-
-
-
-
-
-
-
 <script src='h5p-php-library/js/h5p-x-api-event.js'></script>
 <script src='h5p-php-library/js/h5p-x-api.js'></script>
 <script src='h5p-php-library/js/h5p-content-type.js'></script>
 <script src='h5p-php-library/js/h5p-confirmation-dialog.js'></script>
 <script src='h5p-php-library/js/h5p-action-bar.js'></script>
-
 <script src='h5p-php-library/js/request-queue.js'></script>
-
 <script src='h5p-php-library/js/h5p-tooltip.js'></script>
-
-
 <script src='h5p-editor-php-library/scripts/h5p-hub-client.js'></script>
-
 <script src='h5p-editor-php-library/scripts/h5p-hub-client.js'></script>
-
-
 <script src='h5p-editor-php-library/scripts/h5peditor-editor.js'></script>
 <script src='h5p-editor-php-library/scripts/h5peditor.js'></script>
 <script src='h5p-editor-php-library/language/en.js'></script>
 <script src='h5p-editor.js'></script> 
-    
-    
 <script src='h5p-editor-php-library/scripts/h5peditor-semantic-structure.js'></script>
-
 <script src='h5p-editor-php-library/scripts/h5peditor-library-selector.js'></script>
 <script src='h5p-editor-php-library/scripts/h5peditor-fullscreen-bar.js'></script>
 <script src='h5p-editor-php-library/scripts/h5peditor-form.js'></script>
@@ -1109,9 +1072,3 @@ H5P.init(document.getElementById('h5p-editor'));
 
 
 </html>
-
-
-
-
-
-
